@@ -1,0 +1,24 @@
+{
+  "name": "jumbo_web_app",
+  "version": "1.0.0",
+  "description": "Node js app",
+  "author": "CC Teteh <chinaedu.teteh@gmail.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha './test/*.js'"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "express": "4.17.1",
+    "express-xml-bodyparser": "0.3.0",
+    "faker": "^4.1.0",
+    "mocha": "^6.2.1",
+    "request": "^2.88.2",
+    "sinon": "^7.5.0",
+    "xml2js": "0.4.23",
+    "xml2json": "0.12.0",
+    "xmlbuilder": "11.0.1"
+  }
+}

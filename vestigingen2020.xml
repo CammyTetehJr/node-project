@@ -1,0 +1,1422 @@
+<?xml version="1.0"?>
+<Winkels>
+	<Winkel winkelId="1042">
+		<Openingsdatum>2011-10-10</Openingsdatum>
+		<Sluitingsdatum/>
+		<Bezoekadres>
+			<Straat>Amert</Straat>
+			<Huisnummer>602</Huisnummer>
+			<Postcode>5462 CE</Postcode>
+			<Plaats>Veghel</Plaats>
+			<Provincie>Noord Brabant</Provincie>
+			<UUID>5D77D04D-7FD9-1990-E100-8000AC190ABB</UUID>
+		</Bezoekadres>
+		<Formule>
+			<Verkooporganisatie>VJ01</Verkooporganisatie>
+			<Verkooporganisatie_omschrijving>Jumbo</Verkooporganisatie_omschrijving>
+			<Distributiekanaal>08</Distributiekanaal>
+			<Distributiekanaal_omschrijving>Jumbo</Distributiekanaal_omschrijving>
+			<Verkoopdistrict>KT99</Verkoopdistrict>
+			<Verkoopdistrict_omschrijving>Diversen</Verkoopdistrict_omschrijving>
+			<Regio/>
+			<Regio_omschrijving/>
+			<Klantschema>F</Klantschema>
+			<Prijslijn>J1</Prijslijn>
+			<Prijslijn_omschrijving>Jumbo L5</Prijslijn_omschrijving>
+			<Afnemersgroep>72</Afnemersgroep>
+			<Afnemersgroep_omschr>Jumbo Filialen As-Is</Afnemersgroep_omschr>
+			<Verk_Vloer_Oppervl>0 </Verk_Vloer_Oppervl>
+			<ILN>0000000000000</ILN>
+			<Basisvestiginggroep>JUMBO</Basisvestiginggroep>
+		</Formule>
+		<Contact>
+			<Telefoonnummer>0413380525</Telefoonnummer>
+		</Contact>
+		<Filiaalmanager>
+			<Naam>Applicatiebeheer</Naam>
+		</Filiaalmanager>
+		<Presentatie/>
+		<Openingstijden>
+			<Regulier>
+				<Dag>Maandag</Dag>
+				<Tijd>
+					<Van>:</Van>
+					<Tot>:</Tot>
+				</Tijd>
+				<Dag>Dinsdag</Dag>
+				<Tijd>
+					<Van>:</Van>
+					<Tot>:</Tot>
+				</Tijd>
+				<Dag>Woensdag</Dag>
+				<Tijd>
+					<Van>:</Van>
+					<Tot>:</Tot>
+				</Tijd>
+				<Dag>Donderdag</Dag>
+				<Tijd>
+					<Van>:</Van>
+					<Tot>:</Tot>
+				</Tijd>
+				<Dag>Vrijdag</Dag>
+				<Tijd>
+					<Van>:</Van>
+					<Tot>:</Tot>
+				</Tijd>
+				<Dag>Zaterdag</Dag>
+				<Tijd>
+					<Van>:</Van>
+					<Tot>:</Tot>
+				</Tijd>
+				<Dag>Zondag</Dag>
+				<Tijd>
+					<Van>:</Van>
+					<Tot>:</Tot>
+				</Tijd>
+			</Regulier>
+		</Openingstijden>
+		<Kenmerken>
+			<Kenmerk kenmerkId="AANTALKASSA">
+				<Kenmerkwaarde>1</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KASSASYSTEEM">
+				<Kenmerkwaarde>L</Kenmerkwaarde>
+				<Kenmerkomschrijving>Storeline LPE</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KOSTENPLAATS">
+				<Kenmerkwaarde>123456</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="OPENWINKEL">
+				<Kenmerkwaarde>20111010</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SAPRETAILSTORE">
+				<Kenmerkwaarde>JA</Kenmerkwaarde>
+				<Kenmerkomschrijving>Sap Retail Store</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="VESTIGINGSKENMERK">
+				<Kenmerkwaarde>S</Kenmerkwaarde>
+				<Kenmerkomschrijving>Supermarkt</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WITS_NIETACTIEF">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="ZELFSCAN">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+		</Kenmerken>
+		<Logistiek>
+			<DC_KW>
+				<DC_KW_VESTNR>DC01</DC_KW_VESTNR>
+				<DC_KW_NAAM>Veghel (RDC)</DC_KW_NAAM>
+			</DC_KW>
+			<DC_VERS>
+				<DC_VERS_VESTNR>DC01</DC_VERS_VESTNR>
+				<DC_VERS_NAAM>Veghel (RDC)</DC_VERS_NAAM>
+			</DC_VERS>
+			<DC_DIEPVRIES>
+				<DC_DIEPVRIES_VESTNR>DC23</DC_DIEPVRIES_VESTNR>
+				<DC_DIEPVRIES_NAAM>Raalte</DC_DIEPVRIES_NAAM>
+			</DC_DIEPVRIES>
+		</Logistiek>
+		<Levertijden/>
+		<Debiteur>
+			<Debiteurnummer>42</Debiteurnummer>
+			<Debiteuromschrijving>ICT storeline JOSS</Debiteuromschrijving>
+		</Debiteur>
+	</Winkel>
+	<Winkel winkelId="3021">
+		<Openingsdatum>2012-10-31</Openingsdatum>
+		<Sluitingsdatum/>
+		<Bezoekadres>
+			<Straat>Houtweg</Straat>
+			<Huisnummer>296</Huisnummer>
+			<Postcode>7823 PV</Postcode>
+			<Plaats>Emmen</Plaats>
+			<Provincie>Drenthe</Provincie>
+			<UUID>5D77D059-7FD9-1990-E100-8000AC190ABB</UUID>
+		</Bezoekadres>
+		<Formule>
+			<Verkooporganisatie>VJ01</Verkooporganisatie>
+			<Verkooporganisatie_omschrijving>Jumbo</Verkooporganisatie_omschrijving>
+			<Distributiekanaal>08</Distributiekanaal>
+			<Distributiekanaal_omschrijving>Jumbo</Distributiekanaal_omschrijving>
+			<Verkoopdistrict>J_56</Verkoopdistrict>
+			<Verkoopdistrict_omschrijving>Johan Witteveen</Verkoopdistrict_omschrijving>
+			<Verkoopdistrict_mailadres>johan.witteveen@jumbo.com</Verkoopdistrict_mailadres>
+			<Regio>JR3</Regio>
+			<Regio_omschrijving>Marino Kamphues 2</Regio_omschrijving>
+			<Klantschema>F</Klantschema>
+			<Prijslijn>J3</Prijslijn>
+			<Prijslijn_omschrijving>Jumbo L7</Prijslijn_omschrijving>
+			<Afnemersgroep>74</Afnemersgroep>
+			<Afnemersgroep_omschr>C1000 Filialen Conv.</Afnemersgroep_omschr>
+			<Verk_Vloer_Oppervl>1220 </Verk_Vloer_Oppervl>
+			<ILN>8718452029952</ILN>
+			<Basisvestiginggroep>JUMBO</Basisvestiginggroep>
+		</Formule>
+		<Contact>
+			<Telefoonnummer>0591575160</Telefoonnummer>
+			<Faxnummer>0591575165</Faxnummer>
+			<Email>EHW@jumbo.com</Email>
+		</Contact>
+		<Filiaalmanager>
+			<Naam>Aljan Wierbos</Naam>
+		</Filiaalmanager>
+		<Presentatie>
+			<Winkelnaam>Jumbo Emmen Houtweg</Winkelnaam>
+		</Presentatie>
+		<Openingstijden>
+			<Regulier>
+				<Dag>Maandag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+				<Dag>Dinsdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+				<Dag>Woensdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+				<Dag>Donderdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>21:00</Tot>
+				</Tijd>
+				<Dag>Vrijdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>21:00</Tot>
+				</Tijd>
+				<Dag>Zaterdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+				<Dag>Zondag</Dag>
+				<Tijd>
+					<Van>10:00</Van>
+					<Tot>18:00</Tot>
+				</Tijd>
+			</Regulier>
+		</Openingstijden>
+		<Kenmerken>
+			<Kenmerk kenmerkId="AANTALKASSA">
+				<Kenmerkwaarde>7</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="ACD-IND">
+				<Kenmerkwaarde>V</Kenmerkwaarde>
+				<Kenmerkomschrijving>Filialen</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="AFKORTING">
+				<Kenmerkwaarde>EHW</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="BASISOMZET">
+				<Kenmerkwaarde>175000</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="BLOEMEN_MODULE">
+				<Kenmerkwaarde>1</Kenmerkwaarde>
+				<Kenmerkomschrijving>Zelfbediening</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="BRUTOVLOEROPPERVLAKTE">
+				<Kenmerkwaarde>1742</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="COMPLEXNUMMER">
+				<Kenmerkwaarde>33264</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="DROGISTERIJ">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="EC_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="FOTOSERVICE">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="GEOLAT">
+				<Kenmerkwaarde>52,792601</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="GEOLON">
+				<Kenmerkwaarde>6,939040</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="HD_EIND">
+				<Kenmerkwaarde>20151213</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="IND_SECURE">
+				<Kenmerkwaarde>A</Kenmerkwaarde>
+				<Kenmerkomschrijving>Active</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="JDW_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KASSASYSTEEM">
+				<Kenmerkwaarde>L</Kenmerkwaarde>
+				<Kenmerkomschrijving>Storeline LPE</Kenmerkomschrijving>
+				<Kenmerkwaarde>R10</Kenmerkwaarde>
+				<Kenmerkomschrijving>R10</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KN_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KOSTENPLAATS">
+				<Kenmerkwaarde>813021</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="LBS">
+				<Kenmerkwaarde>02</Kenmerkwaarde>
+				<Kenmerkomschrijving>R&amp;R Web</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="OPENWINKEL">
+				<Kenmerkwaarde>20121031</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="PERSMANAGER">
+				<Kenmerkwaarde>12</Kenmerkwaarde>
+				<Kenmerkomschrijving>Paul van der Linde</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SAPFRACTIVE">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SAPRETAILSTORE">
+				<Kenmerkwaarde>JA</Kenmerkwaarde>
+				<Kenmerkomschrijving>Sap Retail Store</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SLIJTERIJ">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SMIS_WINKEL_NUMMER">
+				<Kenmerkwaarde>527</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="STOMERIJSERVICE">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="TNTSERVICEPUNT">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="VESTIGINGSKENMERK">
+				<Kenmerkwaarde>S</Kenmerkwaarde>
+				<Kenmerkomschrijving>Supermarkt</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WEBSITE_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WIFI">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WITS_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="ZELFSCAN">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+		</Kenmerken>
+		<Logistiek>
+			<DC_KW>
+				<DC_KW_VESTNR>DC02</DC_KW_VESTNR>
+				<DC_KW_NAAM>Beilen</DC_KW_NAAM>
+			</DC_KW>
+			<DC_VERS>
+				<DC_VERS_VESTNR>DC02</DC_VERS_VESTNR>
+				<DC_VERS_NAAM>Beilen</DC_VERS_NAAM>
+			</DC_VERS>
+			<DC_DIEPVRIES>
+				<DC_DIEPVRIES_VESTNR>DC23</DC_DIEPVRIES_VESTNR>
+				<DC_DIEPVRIES_NAAM>Raalte</DC_DIEPVRIES_NAAM>
+			</DC_DIEPVRIES>
+		</Logistiek>
+		<Levertijden>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20190930</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191001</Datum>
+					<Tijd>10:24</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191001</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191002</Datum>
+					<Tijd>10:49</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191002</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191003</Datum>
+					<Tijd>10:53</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191003</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191004</Datum>
+					<Tijd>11:07</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191004</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191005</Datum>
+					<Tijd>10:26</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191005</Datum>
+					<Tijd>10:15</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191007</Datum>
+					<Tijd>11:01</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191007</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191008</Datum>
+					<Tijd>10:24</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191008</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191009</Datum>
+					<Tijd>10:49</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191009</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191010</Datum>
+					<Tijd>10:53</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191010</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191011</Datum>
+					<Tijd>11:07</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191011</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191012</Datum>
+					<Tijd>10:26</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191012</Datum>
+					<Tijd>10:15</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191014</Datum>
+					<Tijd>11:01</Tijd>
+				</Levermoment>
+			</Levertijd>
+		</Levertijden>
+		<Debiteur>
+			<Debiteurnummer>81001</Debiteurnummer>
+			<Debiteuromschrijving>3021 Fil Emmen Houtweg</Debiteuromschrijving>
+		</Debiteur>
+	</Winkel>
+	<Winkel winkelId="3025">
+		<Openingsdatum>2013-07-10</Openingsdatum>
+		<Sluitingsdatum/>
+		<Bezoekadres>
+			<Straat>De Kostmand</Straat>
+			<Huisnummer>2</Huisnummer>
+			<Postcode>1276 CJ</Postcode>
+			<Plaats>Huizen</Plaats>
+			<Provincie>Noord Holland</Provincie>
+			<UUID>5D77D05A-7FD9-1990-E100-8000AC190ABB</UUID>
+		</Bezoekadres>
+		<Formule>
+			<Verkooporganisatie>VJ01</Verkooporganisatie>
+			<Verkooporganisatie_omschrijving>Jumbo</Verkooporganisatie_omschrijving>
+			<Distributiekanaal>08</Distributiekanaal>
+			<Distributiekanaal_omschrijving>Jumbo</Distributiekanaal_omschrijving>
+			<Verkoopdistrict>J_04</Verkoopdistrict>
+			<Verkoopdistrict_omschrijving>Erwin Slop</Verkoopdistrict_omschrijving>
+			<Verkoopdistrict_mailadres>Erwin.Slop@jumbo.com</Verkoopdistrict_mailadres>
+			<Regio>JR3</Regio>
+			<Regio_omschrijving>Marino Kamphues 2</Regio_omschrijving>
+			<Klantschema>F</Klantschema>
+			<Prijslijn>J3</Prijslijn>
+			<Prijslijn_omschrijving>Jumbo L7</Prijslijn_omschrijving>
+			<Afnemersgroep>74</Afnemersgroep>
+			<Afnemersgroep_omschr>C1000 Filialen Conv.</Afnemersgroep_omschr>
+			<Verk_Vloer_Oppervl>906 </Verk_Vloer_Oppervl>
+			<ILN>8718452036363</ILN>
+			<Basisvestiginggroep>JUMBO</Basisvestiginggroep>
+		</Formule>
+		<Contact>
+			<Telefoonnummer>0355288810</Telefoonnummer>
+			<Email>HUZ@jumbo.com</Email>
+		</Contact>
+		<Filiaalmanager>
+			<Naam>Wouter van Poolen</Naam>
+		</Filiaalmanager>
+		<Presentatie>
+			<Winkelnaam>Jumbo Huizen De Kostmand</Winkelnaam>
+		</Presentatie>
+		<Openingstijden>
+			<Regulier>
+				<Dag>Maandag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+				<Dag>Dinsdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+				<Dag>Woensdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+				<Dag>Donderdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+				<Dag>Vrijdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>21:00</Tot>
+				</Tijd>
+				<Dag>Zaterdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+				<Dag>Zondag</Dag>
+				<Tijd>
+					<Van>12:00</Van>
+					<Tot>18:00</Tot>
+				</Tijd>
+			</Regulier>
+		</Openingstijden>
+		<Kenmerken>
+			<Kenmerk kenmerkId="AANTALKASSA">
+				<Kenmerkwaarde>6</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="ACD-IND">
+				<Kenmerkwaarde>V</Kenmerkwaarde>
+				<Kenmerkomschrijving>Filialen</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="AFKORTING">
+				<Kenmerkwaarde>HUZ</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="BASISOMZET">
+				<Kenmerkwaarde>145000</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="BLOEMEN_MODULE">
+				<Kenmerkwaarde>1</Kenmerkwaarde>
+				<Kenmerkomschrijving>Zelfbediening</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="BRUTOVLOEROPPERVLAKTE">
+				<Kenmerkwaarde>1437</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="COMPLEXNUMMER">
+				<Kenmerkwaarde>33122</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="DROGISTERIJ">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="EC_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="E_COMMERCE_EIND">
+				<Kenmerkwaarde>99991231</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="E_COMMERCE_START">
+				<Kenmerkwaarde>20170725</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="FOTOSERVICE">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="GEOLAT">
+				<Kenmerkwaarde>52,291946</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="GEOLON">
+				<Kenmerkwaarde>5,254419</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="HD_EIND">
+				<Kenmerkwaarde>99991231</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="HD_START">
+				<Kenmerkwaarde>20170725</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="IND_SECURE">
+				<Kenmerkwaarde>A</Kenmerkwaarde>
+				<Kenmerkomschrijving>Active</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="JDW_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KASSASYSTEEM">
+				<Kenmerkwaarde>L</Kenmerkwaarde>
+				<Kenmerkomschrijving>Storeline LPE</Kenmerkomschrijving>
+				<Kenmerkwaarde>R10</Kenmerkwaarde>
+				<Kenmerkomschrijving>R10</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KN_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KOOKSTUDIO">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KOSTENPLAATS">
+				<Kenmerkwaarde>813025</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="LBS">
+				<Kenmerkwaarde>02</Kenmerkwaarde>
+				<Kenmerkomschrijving>R&amp;R Web</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="OPENWINKEL">
+				<Kenmerkwaarde>20130710</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="PARKEERAANT">
+				<Kenmerkwaarde>60</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="PARKEREN">
+				<Kenmerkwaarde>1</Kenmerkwaarde>
+				<Kenmerkomschrijving>Gratis parkeren</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="PERSMANAGER">
+				<Kenmerkwaarde>05</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ellen Hooiveld</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="PUP_KENMERK">
+				<Kenmerkwaarde>A</Kenmerkwaarde>
+				<Kenmerkomschrijving>Binnen</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SAPFRACTIVE">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SAPRETAILSTORE">
+				<Kenmerkwaarde>JA</Kenmerkwaarde>
+				<Kenmerkomschrijving>Sap Retail Store</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SIMACANACTIEF">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SIMACAN_EIND">
+				<Kenmerkwaarde>99991231</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SIMACAN_START">
+				<Kenmerkwaarde>20190610</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SLIJTERIJ">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SMIS_WINKEL_NUMMER">
+				<Kenmerkwaarde>505</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="STOMERIJSERVICE">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="TNTSERVICEPUNT">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="VESTIGINGSKENMERK">
+				<Kenmerkwaarde>S</Kenmerkwaarde>
+				<Kenmerkomschrijving>Supermarkt</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WEBSITE_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WIFI">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WITS_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="ZELFSCAN">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Neen</Kenmerkomschrijving>
+			</Kenmerk>
+		</Kenmerken>
+		<Logistiek>
+			<DC_KW>
+				<DC_KW_VESTNR>DC21</DC_KW_VESTNR>
+				<DC_KW_NAAM>Woerden</DC_KW_NAAM>
+			</DC_KW>
+			<DC_VERS>
+				<DC_VERS_VESTNR>DC21</DC_VERS_VESTNR>
+				<DC_VERS_NAAM>Woerden</DC_VERS_NAAM>
+			</DC_VERS>
+			<DC_DIEPVRIES>
+				<DC_DIEPVRIES_VESTNR>DC23</DC_DIEPVRIES_VESTNR>
+				<DC_DIEPVRIES_NAAM>Raalte</DC_DIEPVRIES_NAAM>
+			</DC_DIEPVRIES>
+		</Logistiek>
+		<Levertijden>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20190930</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191001</Datum>
+					<Tijd>13:17</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191001</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191002</Datum>
+					<Tijd>14:18</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191002</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191003</Datum>
+					<Tijd>15:13</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191003</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191004</Datum>
+					<Tijd>14:13</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191004</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191005</Datum>
+					<Tijd>13:45</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191005</Datum>
+					<Tijd>10:15</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191007</Datum>
+					<Tijd>15:07</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191007</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191008</Datum>
+					<Tijd>13:17</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191008</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191009</Datum>
+					<Tijd>14:18</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191009</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191010</Datum>
+					<Tijd>15:13</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191010</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191011</Datum>
+					<Tijd>14:13</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191011</Datum>
+					<Tijd>14:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191012</Datum>
+					<Tijd>13:45</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191012</Datum>
+					<Tijd>10:15</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191014</Datum>
+					<Tijd>15:07</Tijd>
+				</Levermoment>
+			</Levertijd>
+		</Levertijden>
+		<Debiteur>
+			<Debiteurnummer>81020</Debiteurnummer>
+			<Debiteuromschrijving>3025 Fil Huizen de Kostmand</Debiteuromschrijving>
+		</Debiteur>
+	</Winkel>
+	<Winkel winkelId="3047">
+		<Openingsdatum>2013-02-27</Openingsdatum>
+		<Sluitingsdatum/>
+		<Bezoekadres>
+			<Straat>J. Naberstraat</Straat>
+			<Huisnummer>49-51</Huisnummer>
+			<Postcode>1827 LB</Postcode>
+			<Plaats>Alkmaar</Plaats>
+			<Provincie>Noord Holland</Provincie>
+			<UUID>5D77D05B-7FD9-1990-E100-8000AC190ABB</UUID>
+		</Bezoekadres>
+		<Formule>
+			<Verkooporganisatie>VJ01</Verkooporganisatie>
+			<Verkooporganisatie_omschrijving>Jumbo</Verkooporganisatie_omschrijving>
+			<Distributiekanaal>08</Distributiekanaal>
+			<Distributiekanaal_omschrijving>Jumbo</Distributiekanaal_omschrijving>
+			<Verkoopdistrict>J_06</Verkoopdistrict>
+			<Verkoopdistrict_omschrijving>Gerdine Tiemens</Verkoopdistrict_omschrijving>
+			<Verkoopdistrict_mailadres>Gerdine.Tiemens@jumbo.com</Verkoopdistrict_mailadres>
+			<Regio>JR3</Regio>
+			<Regio_omschrijving>Marino Kamphues 2</Regio_omschrijving>
+			<Klantschema>F</Klantschema>
+			<Prijslijn>J3</Prijslijn>
+			<Prijslijn_omschrijving>Jumbo L7</Prijslijn_omschrijving>
+			<Afnemersgroep>74</Afnemersgroep>
+			<Afnemersgroep_omschr>C1000 Filialen Conv.</Afnemersgroep_omschr>
+			<Verk_Vloer_Oppervl>1610 </Verk_Vloer_Oppervl>
+			<ILN>8718452032471</ILN>
+			<Basisvestiginggroep>JUMBO</Basisvestiginggroep>
+		</Formule>
+		<Contact>
+			<Telefoonnummer>0725679020</Telefoonnummer>
+			<Faxnummer>0725679022</Faxnummer>
+			<Email>AKM@jumbo.com</Email>
+		</Contact>
+		<Filiaalmanager>
+			<Naam>Arjen Veenstra</Naam>
+		</Filiaalmanager>
+		<Presentatie>
+			<Winkelnaam>Jumbo Alkmaar J. Naberstraat</Winkelnaam>
+		</Presentatie>
+		<Openingstijden>
+			<Regulier>
+				<Dag>Maandag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>22:00</Tot>
+				</Tijd>
+				<Dag>Dinsdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>22:00</Tot>
+				</Tijd>
+				<Dag>Woensdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>22:00</Tot>
+				</Tijd>
+				<Dag>Donderdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>22:00</Tot>
+				</Tijd>
+				<Dag>Vrijdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>22:00</Tot>
+				</Tijd>
+				<Dag>Zaterdag</Dag>
+				<Tijd>
+					<Van>08:00</Van>
+					<Tot>22:00</Tot>
+				</Tijd>
+				<Dag>Zondag</Dag>
+				<Tijd>
+					<Van>10:00</Van>
+					<Tot>20:00</Tot>
+				</Tijd>
+			</Regulier>
+		</Openingstijden>
+		<Kenmerken>
+			<Kenmerk kenmerkId="AANTALKASSA">
+				<Kenmerkwaarde>13</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="ACD-IND">
+				<Kenmerkwaarde>V</Kenmerkwaarde>
+				<Kenmerkomschrijving>Filialen</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="AFKORTING">
+				<Kenmerkwaarde>AKM</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="BASISOMZET">
+				<Kenmerkwaarde>240000</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="BLOEMEN_MODULE">
+				<Kenmerkwaarde>2</Kenmerkwaarde>
+				<Kenmerkomschrijving>Bediening</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="BRUTOVLOEROPPERVLAKTE">
+				<Kenmerkwaarde>2442</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="COMPLEXNUMMER">
+				<Kenmerkwaarde>33504</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="EC_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="E_COMMERCE_EIND">
+				<Kenmerkwaarde>99991231</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="E_COMMERCE_START">
+				<Kenmerkwaarde>20170404</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="FOTOSERVICE">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="GEOLAT">
+				<Kenmerkwaarde>52,665822</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="GEOLON">
+				<Kenmerkwaarde>4,766146</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="HD_EIND">
+				<Kenmerkwaarde>99991231</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="HD_START">
+				<Kenmerkwaarde>20170404</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="IND_SECURE">
+				<Kenmerkwaarde>A</Kenmerkwaarde>
+				<Kenmerkomschrijving>Active</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="JDW_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KASSASYSTEEM">
+				<Kenmerkwaarde>L</Kenmerkwaarde>
+				<Kenmerkomschrijving>Storeline LPE</Kenmerkomschrijving>
+				<Kenmerkwaarde>R10</Kenmerkwaarde>
+				<Kenmerkomschrijving>R10</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KN_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="KOSTENPLAATS">
+				<Kenmerkwaarde>813047</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="LBS">
+				<Kenmerkwaarde>02</Kenmerkwaarde>
+				<Kenmerkomschrijving>R&amp;R Web</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="OPENWINKEL">
+				<Kenmerkwaarde>20130227</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="PARKEERAANT">
+				<Kenmerkwaarde>160</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="PARKEREN">
+				<Kenmerkwaarde>1</Kenmerkwaarde>
+				<Kenmerkomschrijving>Gratis parkeren</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="PERSMANAGER">
+				<Kenmerkwaarde>05</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ellen Hooiveld</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="PUP_KENMERK">
+				<Kenmerkwaarde>A</Kenmerkwaarde>
+				<Kenmerkomschrijving>Binnen</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SAPFRACTIVE">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SAPRETAILSTORE">
+				<Kenmerkwaarde>JA</Kenmerkwaarde>
+				<Kenmerkomschrijving>Sap Retail Store</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SLIJTERIJ">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="SMIS_WINKEL_NUMMER">
+				<Kenmerkwaarde>506</Kenmerkwaarde>
+				<Kenmerkomschrijving/>
+			</Kenmerk>
+			<Kenmerk kenmerkId="STOMERIJSERVICE">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="TNTSERVICEPUNT">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="VESTIGINGSKENMERK">
+				<Kenmerkwaarde>S</Kenmerkwaarde>
+				<Kenmerkomschrijving>Supermarkt</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WEBSITE_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WIFI">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="WITS_NIETACTIEF">
+				<Kenmerkwaarde>N</Kenmerkwaarde>
+				<Kenmerkomschrijving>Nee</Kenmerkomschrijving>
+			</Kenmerk>
+			<Kenmerk kenmerkId="ZELFSCAN">
+				<Kenmerkwaarde>J</Kenmerkwaarde>
+				<Kenmerkomschrijving>Ja</Kenmerkomschrijving>
+			</Kenmerk>
+		</Kenmerken>
+		<Logistiek>
+			<DC_KW>
+				<DC_KW_VESTNR>DC21</DC_KW_VESTNR>
+				<DC_KW_NAAM>Woerden</DC_KW_NAAM>
+			</DC_KW>
+			<DC_VERS>
+				<DC_VERS_VESTNR>DC21</DC_VERS_VESTNR>
+				<DC_VERS_NAAM>Woerden</DC_VERS_NAAM>
+			</DC_VERS>
+			<DC_DIEPVRIES>
+				<DC_DIEPVRIES_VESTNR>DC23</DC_DIEPVRIES_VESTNR>
+				<DC_DIEPVRIES_NAAM>Raalte</DC_DIEPVRIES_NAAM>
+			</DC_DIEPVRIES>
+		</Logistiek>
+		<Levertijden>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20190930</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191001</Datum>
+					<Tijd>05:45</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191001</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191002</Datum>
+					<Tijd>05:30</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191002</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191003</Datum>
+					<Tijd>05:39</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191003</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191004</Datum>
+					<Tijd>05:30</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191004</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191005</Datum>
+					<Tijd>05:30</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191005</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191006</Datum>
+					<Tijd>08:45</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191005</Datum>
+					<Tijd>10:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191007</Datum>
+					<Tijd>05:31</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191007</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191008</Datum>
+					<Tijd>05:45</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191008</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191009</Datum>
+					<Tijd>05:30</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191009</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191010</Datum>
+					<Tijd>05:39</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191010</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191011</Datum>
+					<Tijd>05:30</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191011</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191012</Datum>
+					<Tijd>05:30</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191012</Datum>
+					<Tijd>09:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191013</Datum>
+					<Tijd>08:45</Tijd>
+				</Levermoment>
+			</Levertijd>
+			<Levertijd>
+				<Leverancier>
+					<Identificatienummer>10767</Identificatienummer>
+					<Naam>BACU Banket</Naam>
+				</Leverancier>
+				<Bestelmoment>
+					<Datum>20191012</Datum>
+					<Tijd>10:00</Tijd>
+				</Bestelmoment>
+				<Levermoment>
+					<Datum>20191014</Datum>
+					<Tijd>05:31</Tijd>
+				</Levermoment>
+			</Levertijd>
+		</Levertijden>
+		<Debiteur>
+			<Debiteurnummer>81004</Debiteurnummer>
+			<Debiteuromschrijving>3047 Fil Alkmaar J. Naberstraat</Debiteuromschrijving>
+		</Debiteur>
+	</Winkel>
+	</Winkels>
